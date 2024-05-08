@@ -1,10 +1,10 @@
 {
-  "name": "filename-parser",
+  "name": "dirx",
   "version": "1.0.2",
-  "description": "Parses and stores information from the filenames in the current folder to excel file.",
+  "description": "A alternate command to list folder contents for windows systems which provides unix like file sizes in KB,MB, etc.,",
   "main": "index.js",
   "bin": {
-    "filename-parser": "./bin/run.js"
+    "dirx": "./bin/run.js"
   },
   "directories": {
     "lib": "lib"
