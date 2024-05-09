@@ -1,10 +1,10 @@
 {
-  "name": "dirx",
+  "name": "listd",
   "version": "1.0.2",
   "description": "A alternate command to list folder contents for windows systems which provides unix like file sizes in KB,MB, etc.,",
   "main": "index.js",
   "bin": {
-    "dirx": "./bin/run.js"
+    "listd": "./bin/run.js"
   },
   "directories": {
     "lib": "lib"
@@ -15,8 +15,10 @@
   "preferGlobal": true,
   "keywords": [
     "cli",
-    "filename-parser",
-    "torrent"
+    "listd",
+    "command-line",
+    "productivity",
+    "tools"
   ],
   "author": "nandha2",
   "license": "MIT",
