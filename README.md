@@ -1,4 +1,5 @@
 # listd
+![banner](resources/images/banner.png)
 
 A alternate command to list folder contents for windows systems which provides unix like file sizes in KB,MB, etc.,
 
