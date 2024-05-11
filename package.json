@@ -1,6 +1,6 @@
 {
-  "name": "listd",
-  "version": "1.0.2",
+  "name": "@nandha2/listd",
+  "version": "0.0.4",
   "description": "A alternate command to list folder contents for windows systems which provides unix like file sizes in KB,MB, etc.,",
   "main": "index.js",
   "bin": {
