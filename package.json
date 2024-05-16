@@ -26,5 +26,8 @@
     "type": "git",
     "url": "https://github.com/nandha46/filename-parser.git"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@nandha2/listd": "^0.0.4"
+  }
 }
